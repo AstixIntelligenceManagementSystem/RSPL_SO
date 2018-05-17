@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581023912408",
+    "firebase_url": "https://rsplso-6ee36.firebaseio.com",
+    "project_id": "rsplso-6ee36",
+    "storage_bucket": "rsplso-6ee36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581023912408:android:e1950efc60fade44",
+        "android_client_info": {
+          "package_name": "rspl_so.astix.rspl_so"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581023912408-kn8medlahkvriklk91fd2leggr3vegpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5hciY6WyP8LtaX7DDR6NyCqjEn2HN3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
